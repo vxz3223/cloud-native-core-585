@@ -1,0 +1,1 @@
+const service_opvv = <T>(args: T): T => { return args; };
