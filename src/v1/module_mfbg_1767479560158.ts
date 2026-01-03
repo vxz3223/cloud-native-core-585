@@ -1,0 +1,1 @@
+const util_mfbg = (d: any) => d;
